@@ -91,6 +91,14 @@ enabled:
     uuid: 56a57ae2-56b7-4053-a3e0-897e198f0d03
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: waderyan.nodejs-extension-pack
     uuid: fc5a3c47-de02-420d-9326-eddc9ba38f04
   - id: walkme.HTML5-extension-pack
