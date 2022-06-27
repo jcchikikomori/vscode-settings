@@ -1,51 +1,23 @@
 disabled:
-  - id: alefragnani.Bookmarks
-    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
-  - id: atlassian.atlascode
-    uuid: ede0d8fe-2180-4cf5-85f5-075dc43d4b8f
-  - id: mikestead.dotenv
-    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
 enabled:
   - id: abusaidm.html-snippets
     uuid: be992f3f-9f22-4b66-a1d2-ecad04c28a28
-  - id: aki77.rubocop-quick-fix
-    uuid: 9d06a49c-b11d-418e-9bfc-d4195780fd9c
+  - id: alefragnani.Bookmarks
+    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
   - id: andersonmfjr.vue-snippets-standardjs
     uuid: e7bcd8f0-60ad-4f50-864a-c9e8e2cbcecb
-  - id: apollographql.vscode-apollo
-    uuid: de44183f-5377-4ceb-ac15-79364a30070c
-  - id: bungcip.better-toml
-    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
   - id: capaj.vscode-standardjs-snippets
     uuid: 2f67a87a-f228-4c64-aa59-d66f638cc822
-  - id: castwide.solargraph
-    uuid: 349e83e2-207c-4309-a8d2-dfa43f7ee0c9
-  - id: christian-kohler.npm-intellisense
-    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
-  - id: christian-kohler.path-intellisense
-    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: Cjay.ruby-and-rails-snippets
     uuid: fe445d6c-9d0f-4736-b036-d5709a882318
-  - id: codezombiech.gitignore
-    uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
-  - id: dbaeumer.vscode-eslint
-    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: donjayamanne.githistory
-    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
-  - id: donjayamanne.python-environment-manager
-    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
-  - id: eamodio.gitlens
-    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
-  - id: eg2.vscode-npm-script
-    uuid: ae9e3eb0-3357-4cc0-90ee-598d2d384757
-  - id: esbenp.prettier-vscode
-    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.auto-close-tag
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
-  - id: formulahendry.auto-complete-tag
-    uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
   - id: formulahendry.auto-rename-tag
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: geyao.html-snippets
+    uuid: 1a9b4920-81e7-4148-b64a-1c1cf05e5e0b
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: groksrc.ruby
@@ -54,44 +26,16 @@ enabled:
     uuid: b414283a-6962-48d7-8458-8a9d9c82aac6
   - id: hollowtree.vue-snippets
     uuid: 3620b114-6fe8-459b-8c68-99943147069b
-  - id: hoovercj.ruby-linter
-    uuid: 2c3c71a4-d853-45a3-97c7-3f8878948211
-  - id: ionutvmi.path-autocomplete
-    uuid: 0d1241e3-fa60-4f24-8f2a-6d7085677c48
-  - id: IronGeek.vscode-env
-    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: JakeWilson.vscode-picture
     uuid: 1354b22c-ace1-4ae8-82e4-a4b5a316a5b3
-  - id: jasonnutter.search-node-modules
-    uuid: ee108066-df8b-43ae-9a83-e6c11400a759
-  - id: johnsoncodehk.volar
-    uuid: a5223b43-8621-4351-a14e-3d560f85f277
-  - id: johnsoncodehk.vscode-typescript-vue-plugin
-    uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: kaiwood.endwise
     uuid: e9a05054-5cce-41cd-a15c-6d71e99ebab1
-  - id: KnisterPeter.vscode-commitizen
-    uuid: 726dd888-7465-4e27-a016-4288df7be24a
-  - id: l7ssha.tag-inserter
-    uuid: 2fc88c26-cd0f-419e-b99a-bfdedc62ff01
   - id: ldrner.rspec-snippets-vscode
     uuid: 8efec09c-2c95-4096-a78a-05bbc73b8635
   - id: lolkush.quickstart
     uuid: a0fef603-ae87-4160-9bad-21fd92439bdb
-  - id: matthieumu.vscode-rubycommentdoc
-    uuid: 80e61962-f4de-4e0e-b794-7b6796a6aebe
-  - id: miguel-savignano.ruby-symbols
-    uuid: 015f4367-4522-4348-978c-fbb7adb11de2
-  - id: misogi.ruby-rubocop
-    uuid: 867c2662-4ce0-4736-a22c-69975925a0c6
-  - id: ms-azuretools.vscode-docker
-    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
-  - id: ms-kubernetes-tools.vscode-kubernetes-tools
-    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode-remote.remote-ssh
@@ -100,44 +44,18 @@ enabled:
     uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
   - id: ms-vscode-remote.remote-wsl
     uuid: f0c5397b-d357-4197-99f0-cb4202f22818
-  - id: ms-vsliveshare.vsliveshare
-    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
-  - id: mubaidr.vuejs-extension-pack
-    uuid: cbf3bf40-02cc-4efa-b596-aa4cb09851f7
+  - id: ms-vscode-remote.vscode-remote-extensionpack
+    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
   - id: onecentlin.phpunit-snippets
     uuid: 2e717d3b-b52d-434c-be8f-0604fdabe7b6
-  - id: Perkovec.emoji
-    uuid: a9151cd6-3338-48bc-bc6e-ba97e22489dd
-  - id: rebornix.ruby
-    uuid: ae062c8a-c68e-4b92-9ecf-8f1d4288b05d
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: sdras.night-owl
     uuid: e58f546c-babc-455f-a265-ba40dbd140d4
   - id: sidthesloth.html5-boilerplate
     uuid: f45dc69c-8d62-4ea1-b01f-3ab90854acb6
-  - id: svipas.code-autocomplete
-    uuid: 450b105e-1b74-4494-ae6c-0004e2f9e8fc
   - id: TaodongWu.ejs-snippets
     uuid: f9dd9e15-b3f1-49eb-a8f0-d14b65645290
-  - id: temitope1909.dotenv-intellisense
-    uuid: b7da3d00-4b2f-4268-b9cc-e1ac02756390
-  - id: tombonnike.vscode-status-bar-format-toggle
-    uuid: 28fcf0b8-26a5-4e99-9b8d-02e990366c6f
-  - id: Trunk.io
-    uuid: a26fd528-6d7c-44c5-b07c-15cf93dbf619
   - id: vayan.haml
     uuid: 3d48b57c-1cf7-41d3-858c-2e6d926f2960
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
-  - id: vortizhe.simple-ruby-erb
-    uuid: 56a57ae2-56b7-4053-a3e0-897e198f0d03
-  - id: waderyan.nodejs-extension-pack
-    uuid: fc5a3c47-de02-420d-9326-eddc9ba38f04
-  - id: walkme.HTML5-extension-pack
-    uuid: e331f780-d257-40e0-83fb-6c7e6db5b1cb
-  - id: walkme.Ruby-extension-pack
-    uuid: 2ce10182-b57b-4ccd-90d3-307701f306d6
   - id: william-voyek.vscode-nginx
     uuid: 414b2873-c80e-4dc6-9031-bd185cfb3944
   - id: wingrunr21.vscode-ruby
@@ -146,5 +64,3 @@ enabled:
     uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
   - id: xabikos.ReactSnippets
     uuid: c807e072-5951-4a01-9542-450f946c7ec1
-  - id: ziyasal.vscode-open-in-github
-    uuid: 1d4d80c9-0d33-48a1-88a8-19ff80bc8e2a

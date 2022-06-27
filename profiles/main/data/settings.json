@@ -1,126 +1,41 @@
 {
-    "terminal.external.osxExec": "iTerm.app",
-    "sync.gist": "c479de181eb9441e7ec39c206a8ab1ef",
-    "sync.autoDownload": true,
-    "sync.autoUpload": true,
-    "sync.quietSync": true,
     "yaml.schemas": {
-        "file:///home/vscode/.vscode-server/extensions/atlassian.atlascode-2.10.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+        "file:///home/johnc/.vscode-server/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
-    "telemetry.telemetryLevel": "crash",
-    "editor.matchBrackets": "near",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.tabSize": 2,
-    "tabnine.experimentalAutoImports": true,
-    "editor.fontSize": 13,
-    "cmake.configureOnOpen": false,
-    "editor.linkedEditing": true,
-    "settingsSync.ignoredSettings": [
-        "ruby.rubocop.configFilePath",
-        "ruby.rubocop.executePath",
-        "solargraph.autoformat",
-        "solargraph.commandPath",
-        "ruby.rubocop.useBundler",
-        "solargraph.bundlerPath",
-        "ruby.linter.executablePath",
-        "solargraph.useBundler",
-        "solargraph.externalServer",
-        "solargraph.transport",
-        "remote.autoForwardPorts"
-    ],
-    "bracketPairColorizer.depreciation-notice": false,
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.fontFamily": "JetBrains Mono NL, 'Courier New', monospace",
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "extensions.ignoreRecommendations": true,
-    "solargraph.externalServer": {
-        "host": "localhost",
-        "port": 7658
-    },
-    "settingsSync.ignoredExtensions": [
-        "svipas.code-autocomplete"
-    ],
     "redhat.telemetry.enabled": true,
-    "atlascode.jira.jqlList": [
-        {
-            "id": "ecb4142b-ef93-4a98-aa6a-11e318eaca28",
-            "enabled": true,
-            "name": "My gorated Issues",
-            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
-            "siteId": "73abeae5-748e-4806-b34c-6a52335d166b",
-            "monitor": true
+    "trunk.trunkGrayOutNonBlockingIssues": false,
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "code-shell": {
+            "path": "/home/johnc/bin/code-shell"
         }
-    ],
-    "jira-worklog.host": "https://gorated.atlassian.net",
-    "projectManager.any.ignoredFolders": [
-        "node_modules",
-        "out",
-        "typings",
-        "test",
-        ".devcontainer"
-    ],
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
-    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-    "php-cs-fixer.lastDownload": 1644047102902,
+    "terminal.explorerKind": "external",
     "php.suggest.basic": false,
     "php.validate.enable": false,
     "emmet.excludeLanguages": [
         "markdown",
         "php"
     ],
-    "git.autofetch": true,
-    "terminal.explorerKind": "external",
-    "terminal.external.linuxExec": "zsh",
-    "trunk.trunkGrayOutNonBlockingIssues": false,
-    "[vue]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "search.exclude": {
-        "**/node_modules": true,
-        "**/bower_components": true,
-        "**/env": true,
-        "**/venv": true
-    },
-    "files.watcherExclude": {
-        "**/.git/objects/**": true,
-        "**/.git/subtree-cache/**": true,
-        "**/node_modules/**": true,
-        "**/env/**": true,
-        "**/venv/**": true,
-        "env-*": true
-    },
-    "files.exclude": {
-        "**/.git": true,
-        "**/.DS_Store": true,
-        "**/.vscode": true,
-        "**/__pycache__": true,
-        "**/.pytest_cache": true,
-        "**/node_modules": true,
-        "venv": true,
-        "*.sublime-*": true,
-        "env*": true
-    },
-    "[ruby]": {
-        "editor.defaultFormatter": "misogi.ruby-rubocop"
-    },
-    "vs-kubernetes": {
-        "vscode-kubernetes.helm-path.linux": "/home/johnc/.vs-kubernetes/tools/helm/linux-arm64/helm",
-        "vscode-kubernetes.minikube-path.linux": "/home/johnc/.vs-kubernetes/tools/minikube/linux-arm64/minikube",
-        "vscode-kubernetes.kubectl-path.linux": "/home/johnc/.vs-kubernetes/tools/kubectl/kubectl"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)"
+    "terminal.integrated.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 12,
+    "editor.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
+    "editor.fontSize": 13,
 }
