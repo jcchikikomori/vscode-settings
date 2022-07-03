@@ -1,11 +1,1 @@
-{
-    "terminal.explorerKind": "external",
-    "terminal.integrated.automationProfile.linux": {
-        "path": "/home/johnc/bin/code-shell"
-    },
-    "terminal.integrated.defaultProfile.linux": "code-shell",
-    "terminal.integrated.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
-    "terminal.integrated.fontSize": 12,
-    "editor.fontFamily": "Jetbrains Mono, 'Courier New', monospace",
-    "editor.fontSize": 13,
-}
+{}

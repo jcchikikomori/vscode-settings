@@ -9,6 +9,10 @@ disabled: []
 enabled:
   - id: aki77.rubocop-quick-fix
     uuid: 9d06a49c-b11d-418e-9bfc-d4195780fd9c
+  - id: anseki.vscode-color
+    uuid: 37d7747f-e652-4eac-83de-f2939f7e2121
+  - id: antfu.vite
+    uuid: b22eea9f-5a30-43a2-8a59-3d3707869cf8
   - id: apollographql.vscode-apollo
     uuid: de44183f-5377-4ceb-ac15-79364a30070c
   - id: atlassian.atlascode
@@ -21,8 +25,14 @@ enabled:
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: cipchk.cssrem
+    uuid: a0e969a7-a8a4-4958-8b82-ad690ebfa5c0
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
+  - id: cssho.vscode-svgviewer
+    uuid: 6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: donjayamanne.githistory
@@ -35,22 +45,34 @@ enabled:
     uuid: ae9e3eb0-3357-4cc0-90ee-598d2d384757
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: flowtype.flow-for-vscode
+    uuid: b3917e4f-5086-4def-a82b-2ae6b708db16
   - id: formulahendry.auto-complete-tag
     uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
   - id: hoovercj.ruby-linter
     uuid: 2c3c71a4-d853-45a3-97c7-3f8878948211
+  - id: humao.rest-client
+    uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
   - id: ionutvmi.path-autocomplete
     uuid: 0d1241e3-fa60-4f24-8f2a-6d7085677c48
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
   - id: jasonnutter.search-node-modules
     uuid: ee108066-df8b-43ae-9a83-e6c11400a759
+  - id: joyous-coder.reactjs-extension-pack
+    uuid: 688283fd-b41f-4bec-af6b-e38388a61346
+  - id: kelset.rn-full-pack
+    uuid: 245ab7e9-f5f5-42fd-83fa-08a28862a0fd
   - id: KnisterPeter.vscode-commitizen
     uuid: 726dd888-7465-4e27-a016-4288df7be24a
   - id: l7ssha.tag-inserter
     uuid: 2fc88c26-cd0f-419e-b99a-bfdedc62ff01
+  - id: leizongmin.node-module-intellisense
+    uuid: 1bb92b2c-526c-4bfd-bb38-5bae1b278c89
   - id: matthieumu.vscode-rubycommentdoc
     uuid: 80e61962-f4de-4e0e-b794-7b6796a6aebe
+  - id: mgmcdermott.vscode-language-babel
+    uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
   - id: miguel-savignano.ruby-symbols
     uuid: 015f4367-4522-4348-978c-fbb7adb11de2
   - id: misogi.ruby-rubocop
@@ -65,20 +87,36 @@ enabled:
     uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-toolsai.jupyter-renderers
     uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: msjsdiag.vscode-react-native
+    uuid: b35cd5b4-18db-46f9-ba9e-06096c3b22d3
   - id: mubaidr.vuejs-extension-pack
     uuid: cbf3bf40-02cc-4efa-b596-aa4cb09851f7
+  - id: naumovs.color-highlight
+    uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
   - id: Perkovec.emoji
     uuid: a9151cd6-3338-48bc-bc6e-ba97e22489dd
+  - id: pnp.polacode
+    uuid: d80b9a94-f4a6-4e39-bc42-62212e365682
   - id: rebornix.ruby
     uuid: ae062c8a-c68e-4b92-9ecf-8f1d4288b05d
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: redhat.vscode-xml
+    uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: SonarSource.sonarlint-vscode
+    uuid: a7fa941e-bcda-486f-8141-8483a6286177
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: svipas.code-autocomplete
     uuid: 450b105e-1b74-4494-ae6c-0004e2f9e8fc
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: temitope1909.dotenv-intellisense
     uuid: b7da3d00-4b2f-4268-b9cc-e1ac02756390
   - id: tombonnike.vscode-status-bar-format-toggle
@@ -99,11 +137,23 @@ enabled:
     uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
   - id: vscjava.vscode-maven
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: Vue.volar
+    uuid: a5223b43-8621-4351-a14e-3d560f85f277
+  - id: Vue.vscode-typescript-vue-plugin
+    uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
+  - id: waderyan.gitblame
+    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
   - id: waderyan.nodejs-extension-pack
     uuid: fc5a3c47-de02-420d-9326-eddc9ba38f04
   - id: walkme.HTML5-extension-pack
     uuid: e331f780-d257-40e0-83fb-6c7e6db5b1cb
   - id: walkme.Ruby-extension-pack
     uuid: 2ce10182-b57b-4ccd-90d3-307701f306d6
+  - id: wmaurer.change-case
+    uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: ZixuanChen.vitest-explorer
+    uuid: bc1d9975-fcc6-4594-a6ec-252a3fba1eae
   - id: ziyasal.vscode-open-in-github
     uuid: 1d4d80c9-0d33-48a1-88a8-19ff80bc8e2a
